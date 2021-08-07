@@ -15,7 +15,7 @@ This tutorial assumes that you:
 - Have a general comfortability using the command-line
 - Are running a debian-based linux distro, preferably [Kali linux](https://www.kali.org/) (OSX users see the [appendix](appendix.md))
 - Have [Aircrack-ng](http://aircrack-ng.org/) installed
-	- `sudo apt-get install aircrack-ng`
+	- `sudo apt-get install aircrack<!-- markdownlint-configure-file { "MD013": { "line_length": 100 } } -->`
 - Have a wireless card that supports [monitor mode](https://en.wikipedia.org/wiki/Monitor_mode) (see [here](http://www.wirelesshack.org/best-kali-linux-compatible-usb-adapter-dongles-2016.html) for a list of supported devices)
 
 ## Cracking a Wi-Fi Network
